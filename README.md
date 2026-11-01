@@ -25,7 +25,7 @@ Replayed over a full year, the optimised allocation reduces the mean response ti
 
 ## My contributions
 
-- **Travel-time models**: benchmark of the travel-time methods with Baptiste Duperray (MLP, random forest, k-nearest neighbours, precomputed matrices), which led to the precomputed-matrix approach used in the simulator.
+- **Travel-time models**: benchmark of the travel-time methods with Baptiste Duperray (MLP, random forest, k-nearest neighbours, precomputed matrices) and quantification of their prediction uncertainty, which led to the precomputed-matrix approach used in the simulator.
 - **Optimisation**: benchmark and implementation of the allocation algorithms, and the experiments showing the gains above.
 - **Interface**: the Streamlit web app.
 
